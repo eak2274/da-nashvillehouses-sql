@@ -1,0 +1,3 @@
+# ignoring
+venv/
+.ipynb_checkpoints/
